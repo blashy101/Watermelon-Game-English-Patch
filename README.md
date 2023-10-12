@@ -15,7 +15,7 @@ Then, we'll make a LayeredFS folder structure to have these newly patched files 
 
 Folder structure should look like this:
 
-SDROOT\atmosphere\contents\0100800015926000\romfs\Data\*3 patched files here*
+SDROOT\atmosphere\contents\0100800015926000\romfs\Data\ *3 patched files here*
 
 Start up the game and enjoy! There is a tiny bit of untranslated text related to date/time on the scoreboard that I just couldn't find, maybe someone better with Unity can help with this. 
 
