@@ -1,5 +1,7 @@
 # Watermelon-Game-English-Patch
 
+Update: The game has received an official English localization, available in the international version of the game: https://www.nintendo.com/us/store/products/suika-game-switch/ 
+
 Hello! This is an English translation patch for スイカゲーム aka Watermelon Game. 
 The patches are in xdelta format and you'll need a couple of things to get started.
 
